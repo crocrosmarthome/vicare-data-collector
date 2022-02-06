@@ -1,0 +1,5 @@
+.idea/
+token.save
+venv/
+*.iml
+__pycache__/
