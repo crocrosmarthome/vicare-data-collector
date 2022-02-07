@@ -1,2 +1,2 @@
 #!/bin/sh
-while sleep 60; do python main.py; done
+while sleep "$POLLING_INTERVAL_S"; do python main.py; done
